@@ -7,22 +7,14 @@
 <div align="center">
 <img width="48px" align="center" src="./svg/code-tech-dev-svgrepo-com.svg"/>
 <img width="48px" align="center" src="./svg/coffee-love-svgrepo-com.svg"/>
-<a  href="https://www.linkedin.com/in/joycervs/">
-<img align="center" width="48px" src="./svg/linkedin-outline-svgrepo-com (1).svg" alt="Linkedin"/>
-</>
-<a href="https://dev.to/joycervs">
-<img width="48px" align="center" src="./svg/dev-svgrepo-com (1).svg" alt="Dev.to">
-</>
-<a href="https://www.freecodecamp.org/joycervs">
-<img width="48px" align="center" src="./svg/free-code-camp-svgrepo-com (1).svg" alt="Free code camp"/>
-</>
-
+<a  href="https://www.linkedin.com/in/joycervs/"><img align="center" width="48px" src="./svg/linkedin-outline-svgrepo-com (1).svg" alt="Linkedin"/></>
+<a href="https://dev.to/joycervs"><img width="48px" align="center" src="./svg/dev-svgrepo-com (1).svg" alt="Dev.to"></>
+<a href="https://www.freecodecamp.org/joycervs"><img width="48px" align="center" src="./svg/free-code-camp-svgrepo-com (1).svg" alt="Free code camp"></>
 </div>
 <br>
-<div align="center" margin-top="5px">
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=joycervs&label=Visitors&labelColor=%23193549&countColor=%23193549)](https://visitorbadge.io/status?path=joycervs)
-
+<div align="center">
+ 
+ [![Visitors](https://api.visitorbadge.io/api/visitors?path=joycervs&label=Visitors&labelColor=%23193549&countColor=%23193549)](https://visitorbadge.io/status?path=joycervs)
 </div>
 
 <div align="center">
