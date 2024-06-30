@@ -32,12 +32,6 @@
 <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=joycervs&icons=true&hide_border=true&theme=cobalt"/>
  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycervs&hide_border=true&theme=cobalt&layout=compact"/>
 
-
-<div>
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joycervs&theme=cobalt&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-</div>
-
 </div>
 
 
