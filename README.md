@@ -7,7 +7,7 @@
  
 <img width="40px" align="center" src="./svg/code-tech-dev-svgrepo-com.svg"/>
 <img width="40px" align="center" src="./svg/coffee-love-svgrepo-com.svg"/>
-<a  href="https://www.linkedin.com/in/joycerms/">
+<a  href="https://www.linkedin.com/in/joycervs/">
 <img align="center" width="40px" src="./svg/linkedin-outline-svgrepo-com (1).svg" alt="Linkedin"/>
 </>
 <a href="https://www.freecodecamp.org/joycervs">
