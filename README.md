@@ -27,7 +27,6 @@
 ![Tailwind](https://img.shields.io/badge/tailwindcss-001F3F?style=for-the-badge&logo=tailwind-css)
 ![HTML5](https://img.shields.io/badge/HTML5-001F3F?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-001F3F?style=for-the-badge&logo=css3&logoColor=264CE4)
-![Figma](https://img.shields.io/badge/figma-001F3F?style=for-the-badge&logo=figma)
 <br>
 ![Python](https://img.shields.io/badge/Python-001F3F?style=for-the-badge&logo=python)
 ![Terraform](https://img.shields.io/badge/Terraform-001F3F?style=for-the-badge&logo=terraform)
